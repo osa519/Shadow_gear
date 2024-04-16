@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />  <!--This file is not converted to lsf!-->
+	<region id="TextureAtlasInfo"> 
+		<node id="root">
+			<children>
+				<node id="TextureAtlasIconSize">
+					<attribute id="Height" type="int64" value="64"/>
+					<attribute id="Width" type="int64" value="64"/>
+				</node>
+				<node id="TextureAtlasPath">
+					<attribute id="Path" type="LSString" value="Assets/Textures/Icons/ShadowGear2_icons.DDS"/>
+					<attribute id="UUID" type="FixedString" value="25409be8-3de7-411a-a300-9d2afe5a6c31"/>
+				</node>
+				<node id="TextureAtlasTextureSize">
+					<attribute id="Height" type="int64" value="1"/>
+					<attribute id="Width" type="int64" value="1"/>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="IconUVList">
+		<node id="root">
+			<children>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="ShadowGear2_Item_WPN_HUM_Dagger_A_0_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
